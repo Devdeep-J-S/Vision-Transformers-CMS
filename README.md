@@ -3,7 +3,7 @@ Email ID : devdeep0702@gmail.com
 
 ****
 
-# GSoC Vision Transformers for End-to-End Particle Reconstruction <br> for the CMS Experiment Project - 2023
+# GSoC Vision Transformers for End-to-End Particle Reconstruction for the CMS Experiment Project - 2023
 # ML4Sci
 
 ---
